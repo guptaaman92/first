@@ -1,4 +1,4 @@
-print 'Good Night'
+print 'Good night'
 
 
-print 'Good Afternoon'
+print 'Good afternoon'
